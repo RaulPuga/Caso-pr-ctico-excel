@@ -9,10 +9,10 @@
 
 ## Objetivos específicos:
 
-### 1. Hacer analisis de datos
-### 2. Utilizar tablas dinámicas
-### 3. Graficar datos
-### 4. Interpretar datos
+###   1. Hacer analisis de datos
+###   2. Utilizar tablas dinámicas
+###   3. Graficar datos
+###   4. Interpretar datos
 
 ## Base de datos:
 ### La base de datos la encontrarás en el archivo de excel, de este repositorio con título "***CASO PRACTICO***"
@@ -22,7 +22,7 @@
 |------------------ | ----- | ------------- | ------------------ | --------------- | ------------------------ | --------- | ----------------- | --------------- |
 
 ## Resultados:
-### Una vez realizado el análisis con las técnicas vistas en el modulo 2 podemos concluir lo siguiente:
+### Una vez realizado el análisis con las técnicas vistas en el módulo 2 podemos concluir lo siguiente:
 #### 1. De las ventas totales el 51% las realizan personas del genero Másculino y el 49% restantes el género femenino
 <img width="521" alt="Elaboración propia" src="https://github.com/user-attachments/assets/7f1b6657-4121-4c3b-a84e-d10c22103a9e" captio="hola" >
 

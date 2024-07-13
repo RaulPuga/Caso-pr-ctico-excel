@@ -9,7 +9,7 @@
 
 ## Objetivos específicos:
 
-###   1. Hacer analisis de datos
+###   1. Hacer análisis de datos
 ###   2. Utilizar tablas dinámicas
 ###   3. Graficar datos
 ###   4. Interpretar datos
